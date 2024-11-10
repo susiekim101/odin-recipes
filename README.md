@@ -1,1 +1,4 @@
 # odin-recipes
+
+## Description
+Welcome to my first HTML webpage from the Odin Project! As the first to start off a series of ongoing projects to learn web development, I've created by first webpage that includes three delicious recipes to cook for Thanksgiving. Through this project, I learned to use git, push by work to GitHub, push commands through the terimnal, and create HTML files from scratch using VSCode. The project allowed me to apply some basic HTML commands I learned from the Odin Project so far, which includes absolute and relative hyperlinks, images, bold/italicized text, and more. The page yet incorporates any features using CSS.
