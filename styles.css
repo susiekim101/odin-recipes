@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(255, 237, 216);
+}
+.center-align{
+    text-align: center;
+}
+
+.center-align.color, h2{
+    background-color: rgb(255, 203, 183);
+}
+
+h3{
+    background-color: rgb(246, 230, 195);
+}
+
+.center-image{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 300;
+    width: auto;
+}
